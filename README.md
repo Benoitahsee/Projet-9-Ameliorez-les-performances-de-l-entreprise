@@ -16,11 +16,13 @@ Vous avez su choisir des outils et des méthodes qui facilitent le traitement et
 tout en respectant les contraintes du projet. 
 Le tableau de bord final est intuitif et répond aux attentes de l'utilisateur final.
 
+**Commentaires de l'évaluateur**
+
 **Livrable**
 
 **Points forts** :
 
-Très bonne présentation, bravo
+Très bonne présentation, bravo.
 
 **Axes d'amélioration** : 
 
